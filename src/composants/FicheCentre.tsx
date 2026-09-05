@@ -1,3 +1,4 @@
+import AssistantIA from './AssistantIA';
 import React, { useState } from 'react';
 import {
   X,
