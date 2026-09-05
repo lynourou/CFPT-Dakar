@@ -29,6 +29,8 @@ jobs:
 
       - name: Build
         run: npm run build
+        env:
+          VITE_FIREBASE_AI_MODEL_ID: ${{ vars.VITE_FIREBASE_AI_MODEL_ID }}
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
