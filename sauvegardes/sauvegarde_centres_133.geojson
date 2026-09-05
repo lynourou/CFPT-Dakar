@@ -1,0 +1,4800 @@
+{
+  "type": "FeatureCollection",
+  "name": "sauvegarde_centres_fpt_dakar_133_avant_import",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.194993365231273,
+          14.795284458773649
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "nom": "AMRA (Académie des Métiers de la Restauration et de l’Agroalimentaire)",
+        "nom_officiel": "AMRA (Académie des Métiers de la Restauration et de l’Agroalimentaire)",
+        "type": "1",
+        "statut": "1",
+        "commune": "BAMBILOR",
+        "adresse": "",
+        "telephone": "765832727",
+        "email": "amra.academie@gmail.com",
+        "site_web": "Pas encore disponible",
+        "formation": "1",
+        "filiere": "Service restaurant, Hygiène et sécurité, Agroalimentaire, Patisserie, Cuisine, Nutrition",
+        "diplomes": "CAP ; BEP ; CPS ; Attestation",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260203094118159.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.40409473988334,
+          14.747750458758508
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "nom": "Institut Africain de Commerce et de marketing",
+        "nom_officiel": "Institut Africain de Commerce et de marketing",
+        "type": "1",
+        "statut": "1",
+        "commune": "PIKINE OUEST",
+        "adresse": "",
+        "telephone": "338786698",
+        "email": "mama12diop@gmail.com",
+        "site_web": "files/20260114114716031_image_0001.jpg",
+        "formation": "1",
+        "filiere": "Comptabilité-finance ; marketing-management-communication ; gestion et administration des entreprises ; banque-assurance-finance ; commerce international-transit ; transport-logistique ; gestion des ressources humaines ; comptabilité-gestion ; marketing et actions commerciales ; informatique de gestion ; TIC",
+        "diplomes": "Bts ; BT ; BEP ; CAP",
+        "date_creation": "1999-07-29",
+        "description": "Institut Africain de Commerce et de Marketing (IACOM), établissement privé d’enseignement supérieur agréé par l’État du Sénégal.",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260114114842151.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.324485308557357,
+          14.800831711373448
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "nom": "ISI keur massar",
+        "nom_officiel": "ISI keur massar",
+        "type": "",
+        "statut": "1",
+        "commune": "KEUR MASSAR",
+        "adresse": "",
+        "telephone": "338784349",
+        "email": "isikeurmawsar@groupeisi.com",
+        "site_web": "https://www.isisuptech.com/",
+        "formation": "Formations supérieures en informatique et gestion",
+        "filiere": "Réseau informatique, cyber sécurité, infographie multimédia, marketing et communication, génie logiciel ...",
+        "diplomes": "BT ; Licence ; Licence professionnelle ; Master professionnel",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.298303852223032,
+          14.79393773095183
+        ]
+      },
+      "properties": {
+        "id": 101,
+        "nom": "Elite business group",
+        "nom_officiel": "Elite business group",
+        "type": "",
+        "statut": "",
+        "commune": "KEUR MASSAR",
+        "adresse": "",
+        "telephone": "773551056",
+        "email": "ebsgroupekeurmassar@gmail.com",
+        "site_web": "",
+        "formation": "",
+        "filiere": "Informations (maintenant informatique,génie informatique) architecture de bâtiment ( dessin de plan , électrotechnique,génie civil) Santè(( délégué médicale, vendeur en pharmacie, secrétaire médicale)...",
+        "diplomes": "Bts ; Cap ; Dts ; Licence professionnelle ; Master",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.283534263013777,
+          14.727175327236909
+        ]
+      },
+      "properties": {
+        "id": 104,
+        "nom": "Groupe EDICOM SN",
+        "nom_officiel": "Groupe EDICOM SN",
+        "type": "",
+        "statut": "",
+        "commune": "RUFISQUE OUEST",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "2000-01-03",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.399508134836896,
+          14.748006072170176
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "nom": "Institut Supérieur d’Entrepreneurship et de Gestion (ISEG)",
+        "nom_officiel": "Institut Supérieur d’Entrepreneurship et de Gestion (ISEG)",
+        "type": "",
+        "statut": "1",
+        "commune": "PIKINE OUEST",
+        "adresse": "",
+        "telephone": "773655178",
+        "email": "combaye81@gmail.com",
+        "site_web": "",
+        "formation": "",
+        "filiere": "Comptabilité et finances",
+        "diplomes": "Licence professionnelle ; Master",
+        "date_creation": "2026-01-14",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260114145447984.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4663209430513,
+          14.710724263888352
+        ]
+      },
+      "properties": {
+        "id": 112,
+        "nom": "Dakar institut of technologie",
+        "nom_officiel": "Dakar institut of technologie",
+        "type": "1",
+        "statut": "1",
+        "commune": "MERMOZ-SACRE COEUR",
+        "adresse": "",
+        "telephone": "773089292",
+        "email": "Info@dit.sn",
+        "site_web": "Www.dit.sn",
+        "formation": "1",
+        "filiere": "",
+        "diplomes": "Licence ; Master",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/centre_20260127111835296.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.473150275302043,
+          14.707244487002338
+        ]
+      },
+      "properties": {
+        "id": 113,
+        "nom": "Unipro",
+        "nom_officiel": "Unipro",
+        "type": "1",
+        "statut": "1",
+        "commune": "MERMOZ-SACRE COEUR",
+        "adresse": "",
+        "telephone": "338252378",
+        "email": "uniprocomsn@gmail.com",
+        "site_web": "www.universprofessionnel.com",
+        "formation": "1",
+        "filiere": "Commerce international , transport et logistique , comptabilité et gestion , Banquet finance et assurance",
+        "diplomes": "BTS ; Licence ; Master",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/centre_20260127123924224.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.474034036964905,
+          14.704986306820677
+        ]
+      },
+      "properties": {
+        "id": 114,
+        "nom": "IPJI (Institut des Professions Juriduques et Immobilieres)",
+        "nom_officiel": "IPJI (Institut des Professions Juriduques et Immobilieres)",
+        "type": "1",
+        "statut": "1",
+        "commune": "MERMOZ-SACRE COEUR",
+        "adresse": "",
+        "telephone": "338259271",
+        "email": "acueille@ipji-senegal.com",
+        "site_web": "Www.ipji-Sénégal.com",
+        "formation": "1 ; CPS AI ( consierge d’immeuble), CPS ( agency immeubiliere)",
+        "filiere": "Droit immobilier , Droit notariale, Carrier judiciaire",
+        "diplomes": "BTS ; Licence ; Master ; CPS",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/centre_20260127131920300.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.468998092879353,
+          14.703364474194434
+        ]
+      },
+      "properties": {
+        "id": 115,
+        "nom": "Sonatel académie Center",
+        "nom_officiel": "Sonatel académie Center",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "+221 33 839 21 00",
+        "email": "orangedigitalcenter@orange-sonatel.com",
+        "site_web": "https://orangedigitalcenter.sn/",
+        "formation": "Formations gratuites aux compétences numériques et accompagnement des startups",
+        "filiere": "Métiers du numérique ; développement ; cloud ; DevOps ; transformation digitale ; gestion de projets numériques",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/centre_20260203095616433.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.46953434664897,
+          14.70132947838668
+        ]
+      },
+      "properties": {
+        "id": 118,
+        "nom": "SAMA CHEF",
+        "nom_officiel": "SAMA CHEF",
+        "type": "1",
+        "statut": "1",
+        "commune": "MERMOZ-SACRE COEUR",
+        "adresse": "",
+        "telephone": "338565909",
+        "email": "contact@samachef.com",
+        "site_web": "WWW.samachef.com",
+        "formation": "1",
+        "filiere": "Cuisine et Patisserie",
+        "diplomes": "CPS ; CAP ; BEP ; BT",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/centre_20260203102750659.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.473153169413052,
+          14.70502186460913
+        ]
+      },
+      "properties": {
+        "id": 119,
+        "nom": "IAM",
+        "nom_officiel": "IAM",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "+221 77 698 39 66 / +221 33 869 36 36",
+        "email": "info@groupeiam.com",
+        "site_web": "https://groupeiam.com/",
+        "formation": "Licence ; Master ; MBA / Executive",
+        "filiere": "Business administration ; droit des affaires ; informatique de gestion ; marketing et intelligence d'affaires ; banque et ingénierie financière ; management de la qualité ; management du capital humain ; gestion des ressources humaines ; management de projets ; finance",
+        "diplomes": "Licence ; Master ; MBA",
+        "date_creation": "1996",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/centre_20260203104448225.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.39926673221883,
+          14.748111701247677
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "nom": "Centre de formation professionnelle et technique en hôtellerie et restauration (la Source)",
+        "nom_officiel": "Centre de formation professionnelle et technique en hôtellerie et restauration (la Source)",
+        "type": "1",
+        "statut": "1",
+        "commune": "PIKINE OUEST",
+        "adresse": "",
+        "telephone": "774447770",
+        "email": "cfptlasource@gmail.com",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "Restauration,couture,Informatique et Infographie",
+        "diplomes": "CAP ; BT ; BEP ; BTS ; CPS",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260114145301429.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.46388882260481,
+          14.703198155953732
+        ]
+      },
+      "properties": {
+        "id": 120,
+        "nom": "UniversSanté",
+        "nom_officiel": "UniversSanté",
+        "type": "1",
+        "statut": "1",
+        "commune": "MERMOZ-SACRE COEUR",
+        "adresse": "",
+        "telephone": "338644185",
+        "email": "Universante.sn@gmail.com",
+        "site_web": "Www.Universsante.sn",
+        "formation": "1",
+        "filiere": "Infirmier d’état,Sage femme d’état,Assistant infirmier",
+        "diplomes": "BTS ; Attestation",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/centre_20260203115950474.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.463169680992443,
+          14.70408487462239
+        ]
+      },
+      "properties": {
+        "id": 121,
+        "nom": "Batisup",
+        "nom_officiel": "Batisup",
+        "type": "",
+        "statut": "1",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.460566163937106,
+          14.702666475443731
+        ]
+      },
+      "properties": {
+        "id": 122,
+        "nom": "Bioforce",
+        "nom_officiel": "Bioforce",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "+221 33 824 33 17 / +221 77 767 75 80",
+        "email": "",
+        "site_web": "https://www.bioforce.org/",
+        "formation": "Formations métiers certifiantes ; formations courtes continues dans le secteur humanitaire",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "Centre de formation Afrique de Bioforce à Dakar, ouvert depuis 2017 et dédié aux métiers de l'humanitaire.",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.46029652269209,
+          14.700968000538273
+        ]
+      },
+      "properties": {
+        "id": 123,
+        "nom": "OO2 Formations Sénégal",
+        "nom_officiel": "OO2 Formations Sénégal",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.456928363320415,
+          14.696923723514901
+        ]
+      },
+      "properties": {
+        "id": 124,
+        "nom": "GOMYCODE",
+        "nom_officiel": "GOMYCODE",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.456257861756832,
+          14.695999126459098
+        ]
+      },
+      "properties": {
+        "id": 125,
+        "nom": "Institut Supérieur de Finance",
+        "nom_officiel": "Institut Supérieur de Finance",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "+221 77 567 57 99",
+        "email": "isf.senegal@isfdakar.com",
+        "site_web": "https://www.isfdakar.com/",
+        "formation": "Licence ; Master ; formations spécialisées en finance",
+        "filiere": "Finance-comptabilité ; finances et comptabilité publiques ; banque-finance-assurance ; méthodes quantitatives ; ingénierie financière ; analyse financière ; fiscalité ; finance durable ; FinTech ; actuariat",
+        "diplomes": "Licence ; Master",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.45623387998624,
+          14.693542513054515
+        ]
+      },
+      "properties": {
+        "id": 126,
+        "nom": "ESEBAT",
+        "nom_officiel": "ESEBAT",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.462354477057037,
+          14.693591670882443
+        ]
+      },
+      "properties": {
+        "id": 128,
+        "nom": "ESCOA",
+        "nom_officiel": "ESCOA",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.460820533333333,
+          14.690187633333332
+        ]
+      },
+      "properties": {
+        "id": 129,
+        "nom": "INSTITUT DES LANGUES ÉTRANGÈRES APPLIQUÉES",
+        "nom_officiel": "INSTITUT DES LANGUES ÉTRANGÈRES APPLIQUÉES",
+        "type": "",
+        "statut": "2",
+        "commune": "FANN POINT E AMITIE",
+        "adresse": "",
+        "telephone": "338645070",
+        "email": "ilea@ucad.edu.sn",
+        "site_web": "",
+        "formation": "",
+        "filiere": "LICENCE PRO:Langue et affaires internationales, Langue et communication, Langue et métiers du numérique, Langue et tourisme, Langue chinois et affaires internationales; MASTER PRO: Master de langue et tourisme, Master en traduction et en interprétatio",
+        "diplomes": "CERTIFICATION EN LANGUES(CL) ; DIPLOMES DE TECHNICIENS SUPÉRIEURS ; LICENCE ; MASTER",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204143331798.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.44729669393486,
+          14.704256464755597
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "nom": "NAD Beauty",
+        "nom_officiel": "NAD Beauty",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.461208666666668,
+          14.689189683333327
+        ]
+      },
+      "properties": {
+        "id": 130,
+        "nom": "Centre d'Etudes des Sciences et Techniques de l'Information (CESTI)",
+        "nom_officiel": "Centre d'Etudes des Sciences et Techniques de l'Information (CESTI)",
+        "type": "",
+        "statut": "2",
+        "commune": "FANN POINT E AMITIE",
+        "adresse": "",
+        "telephone": "338246875",
+        "email": "cesti@ucad.edu.sn",
+        "site_web": "",
+        "formation": "",
+        "filiere": "Diplôme spécialisé en journalisme et communication (DSJC), Master en médias et communication",
+        "diplomes": "Diplôme spécialisé en journalisme et communication (DSJC); Master en médias et communication",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.466609033333334,
+          14.682508966666663
+        ]
+      },
+      "properties": {
+        "id": 131,
+        "nom": "ECOLE SUPÉRIEURE POLYTECHNIQUE (ESP)",
+        "nom_officiel": "ECOLE SUPÉRIEURE POLYTECHNIQUE (ESP)",
+        "type": "",
+        "statut": "2",
+        "commune": "FANN POINT E AMITIE",
+        "adresse": "",
+        "telephone": "338240540",
+        "email": "esp@esp.sn",
+        "site_web": "",
+        "formation": "",
+        "filiere": "Génie chimique et Biologie appliquée ; Génie Civil; Génie Électrique; Génie Informatique, Génie mécanique ; Gestion",
+        "diplomes": "Diplôme Supérieur de Technologie ( DST), ; Diplôme Universitaire de Technologie ( DUT) ; Licence, Master ; Diplôme d'Ingénieur Technologique (DIT) ; Diplôme d'Ingénieur de Conception ( DIC),",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204114217710.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.46620963333334,
+          14.678123466666671
+        ]
+      },
+      "properties": {
+        "id": 132,
+        "nom": "ECOLE NORMALE SUPÉRIEURE D'ENSEIGNEMENT TECHNIQUE ET PROFESSIONNELLES ( ENSEPT)",
+        "nom_officiel": "ECOLE NORMALE SUPÉRIEURE D'ENSEIGNEMENT TECHNIQUE ET PROFESSIONNELLES ( ENSEPT)",
+        "type": "",
+        "statut": "2",
+        "commune": "FANN POINT E AMITIE",
+        "adresse": "",
+        "telephone": "338217669",
+        "email": "ensept@ucad.edu.sn",
+        "site_web": "https://ensetp.ucad.sn/",
+        "formation": "Formation de formateurs de l'enseignement technique et de la formation professionnelle ; psychologues-conseillers ; cadres de contrôle et d'encadrement",
+        "filiere": "ÉCONOMIE FAMILIALE :  Formation en Métiers de la Restauration, Formation Licence en nutrition humaine et diététique, Formation en Éducation et promotion santé, Formation en Technologies des métiers de l'habillement. FORMATION PSYCHOLOGUE CONSEILLE",
+        "diplomes": "CAEMPT_Certificat d'aptitude à l'enseignement Moyen et Professionnel Technique ; CAIS__Certificat d'aptitude au fonctions d'inspecteur de spécialité ; CAESTP_Certificat d'aptitude à l'enseignement Secondaire Technique ; Licence Professionnelle ; Master",
+        "date_creation": "PyQt6.QtCore.QDate(2026, 2, 4)",
+        "description": "Établissement public de l'Université Cheikh Anta Diop de Dakar ayant rang de faculté.",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204121630952.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.46222776666667,
+          14.6864513
+        ]
+      },
+      "properties": {
+        "id": 133,
+        "nom": "ECOLE DE BIBLIOTHÉCAIRE ARCHIVISTES ET DOCUMENTALISTE",
+        "nom_officiel": "ECOLE DE BIBLIOTHÉCAIRE ARCHIVISTES ET DOCUMENTALISTE",
+        "type": "",
+        "statut": "2",
+        "commune": "FANN POINT E AMITIE",
+        "adresse": "",
+        "telephone": "338257660",
+        "email": "ebad@ucad.edu.sn",
+        "site_web": "https://ebad.ucad.sn/",
+        "formation": "Licence ; Master ; Doctorat ; e-learning ; formations à la carte",
+        "filiere": "Licence :Archives, bibliothèque, documentation; Master: Ingégnerie documentaire, Technologie de l'information; Valorisation du patrimoine documentaire,",
+        "diplomes": "Licence ; Master ; Doctorat",
+        "date_creation": "PyQt6.QtCore.QDate(2026, 2, 4)",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204155925938.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.46471,
+          14.684617
+        ]
+      },
+      "properties": {
+        "id": 134,
+        "nom": "ISAE(INSTITUT SUPÉRIEUR D'AGRICULTURE ET ENTREPRENARIAT)",
+        "nom_officiel": "ISAE(INSTITUT SUPÉRIEUR D'AGRICULTURE ET ENTREPRENARIAT)",
+        "type": "",
+        "statut": "2",
+        "commune": "FANN POINT E AMITIE",
+        "adresse": "",
+        "telephone": "774160658",
+        "email": "isae@ucad.edu.sn",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "Attestation",
+        "date_creation": "PyQt6.QtCore.QDate(2016, 3, 9)",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204164843796.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4645736,
+          14.6841212
+        ]
+      },
+      "properties": {
+        "id": 135,
+        "nom": "Institut supérieur de l'environnement",
+        "nom_officiel": "Institut supérieur de l'environnement",
+        "type": "",
+        "statut": "2",
+        "commune": "FANN POINT E AMITIE",
+        "adresse": "",
+        "telephone": "771851981",
+        "email": "ise.fst@ucad.edu.sn",
+        "site_web": "",
+        "formation": "",
+        "filiere": "Licence Professionnelle Sciences de l'Environnement(LPE); Master Sciences de l'Environnement (ENVI); Master Gestion des Ressources Naturelles et Développement Durable (GERENAD); Master Responsabilité Sociale et Environnemental (RSE); Master Environneme",
+        "diplomes": "Licence ; Master",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204164622274.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4604975,
+          14.689314566666663
+        ]
+      },
+      "properties": {
+        "id": 136,
+        "nom": "ECOLE NATIONALE SUPÉRIEURE DES MINES ET DE LA GEOLOGIE ex IST",
+        "nom_officiel": "ECOLE NATIONALE SUPÉRIEURE DES MINES ET DE LA GEOLOGIE ex IST",
+        "type": "",
+        "statut": "2",
+        "commune": "FANN POINT E AMITIE",
+        "adresse": "",
+        "telephone": "777454213",
+        "email": "Secrétariat.ist(at)ucad.edu.sn",
+        "site_web": "",
+        "formation": "",
+        "filiere": "Licence Professionnelle Géotechnique Géominier; Ingénieur Géologue ; Master Géotechnique",
+        "diplomes": "Diplôme d'ingénieur",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204174745263.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.460110916666668,
+          14.6900454
+        ]
+      },
+      "properties": {
+        "id": 137,
+        "nom": "Institut de Formation en Administration et Création D'ENTREPRISE",
+        "nom_officiel": "Institut de Formation en Administration et Création D'ENTREPRISE",
+        "type": "",
+        "statut": "3",
+        "commune": "FANN POINT E AMITIE",
+        "adresse": "",
+        "telephone": "338248016",
+        "email": "iface@ucad.edu.sn",
+        "site_web": "",
+        "formation": "",
+        "filiere": "Diplôme Universitaire de Gestion ( cours du jour); Licence Professionnelle en Science de Gestion (LPSG); Master Professionnelle en Sciences de Gestion (LPSG)",
+        "diplomes": "Diplôme ; Attestation",
+        "date_creation": "PyQt6.QtCore.QDate(2026, 2, 5)",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204175845348.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.46988289522711,
+          14.742074552293474
+        ]
+      },
+      "properties": {
+        "id": 138,
+        "nom": "CFPT Sénégal Japon",
+        "nom_officiel": "",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.45715558004693,
+          14.7382314687072
+        ]
+      },
+      "properties": {
+        "id": 139,
+        "nom": "Cfp dakar",
+        "nom_officiel": "Cfp dakar",
+        "type": "",
+        "statut": "2",
+        "commune": "GRAND YOFF",
+        "adresse": "",
+        "telephone": "770926721",
+        "email": "cretfdakar24@gmail.com",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.448206793536915,
+          14.720285863273752
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "nom": "Institut de Management et de technologie (IMTECH Nelson MANDELA)",
+        "nom_officiel": "Institut de Management et de technologie (IMTECH Nelson MANDELA)",
+        "type": "",
+        "statut": "1",
+        "commune": "BISCUITERIE",
+        "adresse": "",
+        "telephone": "338255821",
+        "email": "Info@imtech-nelsonmandela.com",
+        "site_web": "files/20260204111319926_image_0001.jpg",
+        "formation": "Droit-économie-gestion ; sciences et technologies ; certifications Cisco et Linux",
+        "filiere": "Gestion ; banque & finance ; droit public & privé ; technologies de l'informatique ; électromécanique ; biotechnologies",
+        "diplomes": "",
+        "date_creation": "2026-02-04",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.460481248717382,
+          14.742760696319648
+        ]
+      },
+      "properties": {
+        "id": 140,
+        "nom": "IFAMS",
+        "nom_officiel": "IFAMS",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.455292224725262,
+          14.733527074395607
+        ]
+      },
+      "properties": {
+        "id": 141,
+        "nom": "Centre de formation en couture",
+        "nom_officiel": "Centre de formation en couture",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.444679898703207,
+          14.72720789905197
+        ]
+      },
+      "properties": {
+        "id": 142,
+        "nom": "Abx centre de formation professionnelle et technique",
+        "nom_officiel": "Abx centre de formation professionnelle et technique",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.445175145783068,
+          14.728332532349702
+        ]
+      },
+      "properties": {
+        "id": 143,
+        "nom": "ASSAPE-CEPPE PROJET",
+        "nom_officiel": "ASSAPE-CEPPE PROJET",
+        "type": "1",
+        "statut": "1",
+        "commune": "GRAND YOFF",
+        "adresse": "",
+        "telephone": "786061010",
+        "email": "",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "",
+        "diplomes": "CAP ; BT ; BEP ; CPS",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.44449552023926,
+          14.732567413240359
+        ]
+      },
+      "properties": {
+        "id": 145,
+        "nom": "Assafin",
+        "nom_officiel": "Assafin",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.444249070938557,
+          14.698728519437084
+        ]
+      },
+      "properties": {
+        "id": 146,
+        "nom": "Centre de formation routier pour enfants",
+        "nom_officiel": "Centre de formation routier pour enfants",
+        "type": "1",
+        "statut": "3",
+        "commune": "HLM",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "Code de la route",
+        "diplomes": "",
+        "date_creation": "2015-01-01",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260114104020281.JPG",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.44260242068604,
+          14.704113982671158
+        ]
+      },
+      "properties": {
+        "id": 147,
+        "nom": "Institut de santé paul correa",
+        "nom_officiel": "Institut de santé paul correa",
+        "type": "1",
+        "statut": "1",
+        "commune": "HLM",
+        "adresse": "",
+        "telephone": "338645813",
+        "email": "ecolecentrepaulcorreahlm6@gmail.com",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "",
+        "diplomes": "Diplôme d’Etat ; Diplôme sage femme ; Diplôme assistante ; Diplôme infirmier d’état ; Vendeur en pharmacie ; Assistant dentaire, maternelle",
+        "date_creation": "2004-01-01",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260114112354849.JPG",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.430959818900963,
+          14.770225156112364
+        ]
+      },
+      "properties": {
+        "id": 148,
+        "nom": "Centre socio culturel de cameberene",
+        "nom_officiel": "Centre socio culturel de cameberene",
+        "type": "1",
+        "statut": "3",
+        "commune": "CAMBERENE",
+        "adresse": "",
+        "telephone": "775563743",
+        "email": "",
+        "site_web": "",
+        "formation": "1 ; 2",
+        "filiere": "Couturière",
+        "diplomes": "",
+        "date_creation": "2026-01-14",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260114134246394.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.449566007437156,
+          14.718931566279705
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "nom": "Université Dakar Bourguiba",
+        "nom_officiel": "Université Dakar Bourguiba",
+        "type": "",
+        "statut": "1",
+        "commune": "BISCUITERIE",
+        "adresse": "",
+        "telephone": "+221 33 825 36 11",
+        "email": "",
+        "site_web": "https://www.udb.sn/",
+        "formation": "Enseignement supérieur professionnalisé et pluridisciplinaire",
+        "filiere": "",
+        "diplomes": "Diplômes reconnus/accrédités CAMES et ANAQ-SUP",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.336158117273715,
+          14.794385905787557
+        ]
+      },
+      "properties": {
+        "id": 150,
+        "nom": "Centre d’apprentissage populaire",
+        "nom_officiel": "Centre d’apprentissage populaire",
+        "type": "1",
+        "statut": "1",
+        "commune": "MALIKA",
+        "adresse": "",
+        "telephone": "338",
+        "email": "",
+        "site_web": "files/20260204121727266_image_0001.jpg",
+        "formation": "1 ; 2",
+        "filiere": "",
+        "diplomes": "Couture ; Restauration ; Cap ; Mecanique a ; Electricite",
+        "date_creation": "2011-02-01",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204121927224.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.33798958963234,
+          14.797429866648905
+        ]
+      },
+      "properties": {
+        "id": 152,
+        "nom": "Centre dapprentissage populaire",
+        "nom_officiel": "Centre dapprentissage populaire",
+        "type": "1",
+        "statut": "1",
+        "commune": "MALIKA",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "1 ; 2",
+        "filiere": "Cuisine",
+        "diplomes": "Cap",
+        "date_creation": "2011-01-01",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204123921880.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.337928157085308,
+          14.797830673270838
+        ]
+      },
+      "properties": {
+        "id": 153,
+        "nom": "Syscom university",
+        "nom_officiel": "Syscom university",
+        "type": "1",
+        "statut": "1",
+        "commune": "MALIKA",
+        "adresse": "",
+        "telephone": "773301598",
+        "email": "",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "Les metiers de linformatique transportn logistique marketing et communication entreprenariat restauratio",
+        "diplomes": "CAP ; BEP ; Attestation professionel ; Bts ; Certicat de specialite",
+        "date_creation": "2024-01-01",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5109069,
+          14.7395508
+        ]
+      },
+      "properties": {
+        "id": 156,
+        "nom": "UPOA (Université Polytechnique de L'Ouest Africain)",
+        "nom_officiel": "UPOA (Université Polytechnique de L'Ouest Africain)",
+        "type": "",
+        "statut": "3",
+        "commune": "NGOR",
+        "adresse": "",
+        "telephone": "338208151",
+        "email": "upoa@upoa.edu.sn",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "Licence et Master",
+        "date_creation": "2026-01-15",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.514799,
+          14.744328
+        ]
+      },
+      "properties": {
+        "id": 157,
+        "nom": "IPP (Institut Polytechnique Panafricain)",
+        "nom_officiel": "IPP (Institut Polytechnique Panafricain)",
+        "type": "1",
+        "statut": "",
+        "commune": "NGOR",
+        "adresse": "",
+        "telephone": "338604532",
+        "email": "www.ippdakar.com",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "",
+        "diplomes": "Licence et Master Architecture ; Licence et Master génie civil ; Licence et Master génie informatique",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5123218,
+          14.7458686
+        ]
+      },
+      "properties": {
+        "id": 158,
+        "nom": "Minutedrone DKR",
+        "nom_officiel": "Minutedrone DKR",
+        "type": "",
+        "statut": "1",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "Certification de telepilotage de drone",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5096724,
+          14.7390309
+        ]
+      },
+      "properties": {
+        "id": 159,
+        "nom": "Institut EDGE (École de Droit Gestion et Économique)",
+        "nom_officiel": "Institut EDGE (École de Droit Gestion et Économique)",
+        "type": "1",
+        "statut": "1",
+        "commune": "NGOR",
+        "adresse": "",
+        "telephone": "338653682",
+        "email": "contact@institutedge.org",
+        "site_web": "",
+        "formation": "1 ; 2",
+        "filiere": "",
+        "diplomes": "Licence (-Droit des Affaires, -Transport Logistique, -Gestion des organisations privées, -Comptabilité, -Markéting et Communication , -Commerce Internationale) ; MASTER I et II (-\nDroit et Économie du Sport, -\nDroit Numérique, des avancées technologiques et de la cybercriminalité, \n-Droit et Économie de la régulation et de la compliance) ; BTS (-\nComptabilité / Gestion, -\nTransport Logistique, -\nCommerce International, \n-Marketing, -\nGénie Civil) ; BT (-\nComptabilité Gestion, -\nTransit, \n-Maintenance Informatique, -\nDessin bâtiment, -\nGénie Civil) ; CERTIFICATION (-\nMédiation en Afrique, \n-Sponsoring sportif, -\nDéveloppeur Web, -\nMarketing Digital, -\nOutils IA & Cybersécurité, -\nWeb 3)",
+        "date_creation": "2014-01-01",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.446825985684146,
+          14.71019951802737
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "nom": "Sabdarifa",
+        "nom_officiel": "Sabdarifa",
+        "type": "",
+        "statut": "1",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.445707,
+          14.7440035
+        ]
+      },
+      "properties": {
+        "id": 160,
+        "nom": "Institut d'Etudes Supérieur de Management et de Droit",
+        "nom_officiel": "Institut d'Etudes Supérieur de Management et de Droit",
+        "type": "1",
+        "statut": "2",
+        "commune": "PATTE D'OIE",
+        "adresse": "",
+        "telephone": "771686027",
+        "email": "",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "Gestion des affaires ( marketing, transport logistique-transit, communication digitale, management des ressources humaines, banque finance- assurance, comptabilité...), Droit des affaires, Passation des marchés publics, Audit et contrôle de gestion.",
+        "diplomes": "Licence ; Master",
+        "date_creation": "2012-10-08",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260114104756398.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.438890183333335,
+          14.74262498333333
+        ]
+      },
+      "properties": {
+        "id": 162,
+        "nom": "Sentech Academy",
+        "nom_officiel": "Sentech Academy",
+        "type": "1",
+        "statut": "1",
+        "commune": "PATTE D'OIE",
+        "adresse": "",
+        "telephone": "338035849",
+        "email": "sentech.academie@gmail.com",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "Informatique - bureautique - cyber sécurité- développement web, marketing et communication digitale, Audiovisuel -infographie, webmaster réseaux sociaux",
+        "diplomes": "BT informatique ; BTS informatique",
+        "date_creation": "2021-10-04",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260114113142832.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4447114,
+          14.7453505
+        ]
+      },
+      "properties": {
+        "id": 163,
+        "nom": "École Cuisine du Monde",
+        "nom_officiel": "École Cuisine du Monde",
+        "type": "1",
+        "statut": "1",
+        "commune": "PATTE D'OIE",
+        "adresse": "",
+        "telephone": "785268295",
+        "email": "Cudum2022@gmail",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "Restauration et Hôtellerie",
+        "diplomes": "CAP ; BEP",
+        "date_creation": "2022-10-10",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260114132605790.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.35271023338404,
+          14.769909312203204
+        ]
+      },
+      "properties": {
+        "id": 164,
+        "nom": "IDÉAL COUTURE SOPE NABY",
+        "nom_officiel": "IDÉAL COUTURE SOPE NABY",
+        "type": "1",
+        "statut": "1",
+        "commune": "YEUMBEUL SUD",
+        "adresse": "",
+        "telephone": "775023090",
+        "email": "antalaye44@gmail.com",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "Couture, broderie, perlage, décoration, teinture...",
+        "diplomes": "",
+        "date_creation": "2026-02-04",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204115719974.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.34683267026314,
+          14.767516677469661
+        ]
+      },
+      "properties": {
+        "id": 165,
+        "nom": "NDJILWENE Couture et restauration",
+        "nom_officiel": "NDJILWENE Couture et restauration",
+        "type": "1",
+        "statut": "1",
+        "commune": "YEUMBEUL SUD",
+        "adresse": "",
+        "telephone": "772550121",
+        "email": "ndjilwene@gmail.com",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "Couture, restauration",
+        "diplomes": "Attestation de fin de formation",
+        "date_creation": "2009-12-25",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204122724070.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.365105500038528,
+          14.769078637422504
+        ]
+      },
+      "properties": {
+        "id": 166,
+        "nom": "La rive du Savoir",
+        "nom_officiel": "La rive du Savoir",
+        "type": "1",
+        "statut": "1",
+        "commune": "YEUMBEUL SUD",
+        "adresse": "",
+        "telephone": "778130082",
+        "email": "ambaye1954@gmail.com",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "Couture, perlage, modélisme, dessin de mode",
+        "diplomes": "Diplôme de fin de formation",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.397198732973354,
+          14.756732395937334
+        ]
+      },
+      "properties": {
+        "id": 167,
+        "nom": "EFAM",
+        "nom_officiel": "EFAM",
+        "type": "1",
+        "statut": "1",
+        "commune": "PIKINE NORD (SUD)",
+        "adresse": "",
+        "telephone": "773056923",
+        "email": "",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "Makeup ,foulard, développement personnel, communication",
+        "diplomes": "Attestation",
+        "date_creation": "2026-02-04",
+        "description": "",
+        "capacite": "",
+        "photo": "C:\\Users\\El Malick\\Pictures\\EFAM.jpeg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.397198732973354,
+          14.756732395937334
+        ]
+      },
+      "properties": {
+        "id": 168,
+        "nom": "La plus belle",
+        "nom_officiel": "La plus belle",
+        "type": "",
+        "statut": "1",
+        "commune": "PIKINE NORD (SUD)",
+        "adresse": "",
+        "telephone": "777281235",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "Couture coiffure",
+        "diplomes": "Diplome d’état et attestation",
+        "date_creation": "2026-02-04",
+        "description": "",
+        "capacite": "",
+        "photo": "C:\\Users\\El Malick\\Pictures\\WhatsApp Image 2026-02-10 at 10.46.13.jpeg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.393850167480732,
+          14.762215946655738
+        ]
+      },
+      "properties": {
+        "id": 169,
+        "nom": "Moussou fashion",
+        "nom_officiel": "Moussou fashion",
+        "type": "",
+        "statut": "1",
+        "commune": "PIKINE NORD (SUD)",
+        "adresse": "",
+        "telephone": "778690154",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "Makup/tissage/coiffure/traitement cheveux",
+        "diplomes": "Attestation",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "C:\\Users\\El Malick\\Pictures\\Mousse.jpeg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.451877325260806,
+          14.692794565191523
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "nom": "ISi",
+        "nom_officiel": "ISi",
+        "type": "",
+        "statut": "1",
+        "commune": "GUEULE TAPEE FASS COLOBANE",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "https://www.isisuptech.com/",
+        "formation": "Formations supérieures en informatique et gestion",
+        "filiere": "Réseaux informatiques ; génie logiciel ; web ; comptabilité-finance ; commerce international ; marketing digital",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260512112607769.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.394149311908162,
+          14.759837725176581
+        ]
+      },
+      "properties": {
+        "id": 170,
+        "nom": "Cprs (centre de formation et la reinsertion)",
+        "nom_officiel": "Cprs (centre de formation et la reinsertion)",
+        "type": "1",
+        "statut": "2",
+        "commune": "PIKINE NORD (SUD)",
+        "adresse": "",
+        "telephone": "338340107",
+        "email": "",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "Couture tissage trico",
+        "diplomes": "",
+        "date_creation": "2026-02-04",
+        "description": "",
+        "capacite": "",
+        "photo": "C:\\Users\\El Malick\\Pictures\\Cpras.jpeg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.434943333333333,
+          14.67502
+        ]
+      },
+      "properties": {
+        "id": 179,
+        "nom": "Sup de co",
+        "nom_officiel": "Sup de co",
+        "type": "INITIALE",
+        "statut": "PRIVE",
+        "commune": "PLATEAU",
+        "adresse": "",
+        "telephone": "338496918",
+        "email": "supdeco@supdeco.edu.sn",
+        "site_web": "https://supdeco.sn/",
+        "formation": "INITIALE ; CONTINUE ; ALTERNANCE",
+        "filiere": "Management et Gestion (School of Management) Management et Gestion (School of Management) Langues et Communication , Formation axée sur la communication professionnelle et les langues.",
+        "diplomes": "BTS(transport logistique) ; LICENCE ; MASTER ; CERTIFICAT",
+        "date_creation": "1993-10-04",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204120110790.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.454794004830124,
+          14.691725165560705
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "nom": "AFPA",
+        "nom_officiel": "AFPA",
+        "type": "",
+        "statut": "",
+        "commune": "GUEULE TAPEE FASS COLOBANE",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260512114250404.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4323807,
+          14.6731944
+        ]
+      },
+      "properties": {
+        "id": 180,
+        "nom": "UCAO",
+        "nom_officiel": "UCAO",
+        "type": "INITIALE",
+        "statut": "PRIVE",
+        "commune": "PLATEAU",
+        "adresse": "",
+        "telephone": "338230840",
+        "email": "stmichel@ucao.edu.sn.",
+        "site_web": "",
+        "formation": "INITIALE ; CONTINUE",
+        "filiere": "Management, Informatique, Gestion (ISG), BTS et Masters (MQPI, MACG).",
+        "diplomes": "BTS ; LICENCE ; MASTER ; CERTIFICAT",
+        "date_creation": "2000-02-01",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204123929927.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.42821,
+          14.669723333333328
+        ]
+      },
+      "properties": {
+        "id": 181,
+        "nom": "Cheikh Amala Sy",
+        "nom_officiel": "Cheikh Amala Sy",
+        "type": "INITIALE",
+        "statut": "PRIVE",
+        "commune": "PLATEAU",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "INITIALE",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204132712433.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.429815,
+          14.670191666666657
+        ]
+      },
+      "properties": {
+        "id": 182,
+        "nom": "SUP-INFO",
+        "nom_officiel": "SUP-INFO",
+        "type": "INITIALE",
+        "statut": "PRIVE",
+        "commune": "PLATEAU",
+        "adresse": "",
+        "telephone": "338891188",
+        "email": "supinfo@supinfo.sn",
+        "site_web": "",
+        "formation": "INITIALE ; CONTINUE",
+        "filiere": "Marketing, com, informatique de gestion, banque finance assurance, transport logistique, gestion immobilière, gestion des RH, Informatique",
+        "diplomes": "LICENCE ; MASTER",
+        "date_creation": "1992-10-01",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204133719419.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.429423333333332,
+          14.67005333333333
+        ]
+      },
+      "properties": {
+        "id": 183,
+        "nom": "SUP-IMAX",
+        "nom_officiel": "SUP-IMAX",
+        "type": "INITIALE",
+        "statut": "PRIVE",
+        "commune": "PLATEAU",
+        "adresse": "",
+        "telephone": "33889118",
+        "email": "info@supimax.com",
+        "site_web": "",
+        "formation": "INITIALE ; CONTINUE",
+        "filiere": "Arts Graphiques et Numériques : Formation axée sur le graphisme, l'infographie, le web design, la 3D, et l'édition numérique.\nAudiovisuel Numérique : Formation pratique pour les métiers de la réalisation, du montage, de la production TV, et de la techniq",
+        "diplomes": "LICENCE ; MASTER",
+        "date_creation": "2012-10-01",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204134316934.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4408831,
+          14.6605951
+        ]
+      },
+      "properties": {
+        "id": 184,
+        "nom": "Jeanne d'arc poste bac",
+        "nom_officiel": "Jeanne d'arc poste bac",
+        "type": "INITIALE",
+        "statut": "PRIVE",
+        "commune": "PLATEAU",
+        "adresse": "",
+        "telephone": "338896061",
+        "email": "contact@isjapostbac.sn ou contact@isjapostbac.info.",
+        "site_web": "",
+        "formation": "INITIALE",
+        "filiere": "Industrie Agroalimentaire (avec labos de production)\nHygiène, Sécurité, Environnement (HSE)\nCommerce et Affaires Internationales\nGestion des Entreprises et Administration\nGestion Transport Logistique\nClasses Prépa Ingénieurs",
+        "diplomes": "BTS ; LICENCE",
+        "date_creation": "1994-10-03",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204143423099.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.1422573,
+          14.7372399
+        ]
+      },
+      "properties": {
+        "id": 185,
+        "nom": "ITM (Institut de Technologie Médicale)",
+        "nom_officiel": "ITM (Institut de Technologie Médicale)",
+        "type": "INITIALE",
+        "statut": "PRIVE",
+        "commune": "SEBIKOTANE",
+        "adresse": "",
+        "telephone": "338053482",
+        "email": "itm.sebi2024@gmail.com",
+        "site_web": "",
+        "formation": "INITIALE ; ALTERNANCE",
+        "filiere": "Sage femme d'état, infirmier d'état, délégué médical, assistant infirmier d'état, aide infirmier, vendeur en pharmacie",
+        "diplomes": "LICENCE ; BTS ; ATTESTATION",
+        "date_creation": "2018-10-15",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260114121357025.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.1403149,
+          14.7397195
+        ]
+      },
+      "properties": {
+        "id": 186,
+        "nom": "EFPT-MS (Etablissement de Formation Proféssionnelle et Technique-Modou Seck)",
+        "nom_officiel": "EFPT-MS (Etablissement de Formation Proféssionnelle et Technique-Modou Seck)",
+        "type": "INITIALE",
+        "statut": "PRIVE",
+        "commune": "SEBIKOTANE",
+        "adresse": "",
+        "telephone": "774496311",
+        "email": "efptms@gmail.com",
+        "site_web": "",
+        "formation": "INITIALE ; CONTINUE",
+        "filiere": "Geomatique, Plomberie, Dessin bâtiment, Froid et Climatisation, Transport Logistique, Agro-alimentaire, QHSE, Pose de carreaux,  Couture et Broderie Numérique, Coiffure et soin Esthétique,  Infographie, Agent de protection Rapproché,  Génie Logiciel,  Se",
+        "diplomes": "BTS ; CPS ; CAP ; BEP ; BT",
+        "date_creation": "2025-01-10",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260114124941037.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.1349767,
+          14.7436212
+        ]
+      },
+      "properties": {
+        "id": 187,
+        "nom": "CFP Sebikotane",
+        "nom_officiel": "CFP Sebikotane",
+        "type": "INITIALE",
+        "statut": "PUBLIC",
+        "commune": "SEBIKOTANE",
+        "adresse": "",
+        "telephone": "775425545",
+        "email": "cfpsebi2010@gmail.com",
+        "site_web": "",
+        "formation": "INITIALE",
+        "filiere": "Couture et modelisme, Dessin bâtiment, ouvrage métallique, coiffure, cuisinier, Pâtisserie",
+        "diplomes": "CAP ; BEP ; ATTESTATION ; ATTESTE",
+        "date_creation": "2010-10-15",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260114132851779.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.132974192500114,
+          14.749467414803803
+        ]
+      },
+      "properties": {
+        "id": 188,
+        "nom": "ESTI (Centre de Formation et de Perfectionnement en Soudure)",
+        "nom_officiel": "ESTI (Centre de Formation et de Perfectionnement en Soudure)",
+        "type": "INITIALE",
+        "statut": "PRIVE",
+        "commune": "SEBIKOTANE",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "INITIALE",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260114135532956.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.223238147494623,
+          14.777725427534435
+        ]
+      },
+      "properties": {
+        "id": 189,
+        "nom": "Centre  de formation professionnelle  en agriculture  de Sangalkam  (CFPA/C)",
+        "nom_officiel": "Centre  de formation professionnelle  en agriculture  de Sangalkam  (CFPA/C)",
+        "type": "1",
+        "statut": "3",
+        "commune": "SANGALKAM",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204115624665.heic",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.38464,
+          14.741755
+        ]
+      },
+      "properties": {
+        "id": 190,
+        "nom": "Centre de formation professionnelle de Thiaroye Sur Mer",
+        "nom_officiel": "Centre de formation professionnelle de Thiaroye Sur Mer",
+        "type": "",
+        "statut": "2",
+        "commune": "THIAROYE SUR MER",
+        "adresse": "",
+        "telephone": "338370197",
+        "email": "cfpthiaroye@gmail.com",
+        "site_web": "",
+        "formation": "",
+        "filiere": "Cuisinier, Couturier Modéliste, Coiffeuse, Maçon, restaurantion, Habillement",
+        "diplomes": "CAP Cuisinier ; CAP Couturier Modéliste ; CAP Coiffeuse ; CAP Maçon ; Attesté (restaurantion, habillement, coiffure)",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.195056565193124,
+          14.79631048759499
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "nom": "PERFORM",
+        "nom_officiel": "PERFORM",
+        "type": "1",
+        "statut": "1",
+        "commune": "BAMBILOR",
+        "adresse": "",
+        "telephone": "781526161",
+        "email": "info@performsenegal.com",
+        "site_web": "www.performsenegal.com",
+        "formation": "1",
+        "filiere": "Mécanique automobile, Engins lourds ou Mécatronique",
+        "diplomes": "BTS ; CAP ; BT ; BUT ; Licence",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260203100554420.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.458579347290556,
+          14.690492475734114
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "nom": "ISM",
+        "nom_officiel": "ISM",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "+221 33 869 76 77 / +221 76 224 19 40",
+        "email": "info@ism.edu.sn",
+        "site_web": "https://www.groupeism.sn/",
+        "formation": "Licence ; Master ; MBA ; certificats ; formations en ligne",
+        "filiere": "Gestion ; science politique ; informatique/digital ; droit ; commerce-vente ; marketing-communication ; management/gestion de projet ; RH ; comptabilité-finance ; tourisme",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260512121129491.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.45766052878943,
+          14.684285072189212
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "nom": "ESNT",
+        "nom_officiel": "ESNT",
+        "type": "",
+        "statut": "",
+        "commune": "GUEULE TAPEE FASS COLOBANE",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260512130507990.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.457820978822284,
+          14.684484426422957
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "nom": "CSFP IAA",
+        "nom_officiel": "CSFP IAA",
+        "type": "",
+        "statut": "",
+        "commune": "GUEULE TAPEE FASS COLOBANE",
+        "adresse": "",
+        "telephone": "338226308",
+        "email": "cfspiaa@orange.sn",
+        "site_web": "files/20260512131023984_image_0001.jpg",
+        "formation": "Formation initiale ; formation continue ; prestations à la carte ; certificat professionnel de spécialité (CPS)",
+        "filiere": "Chef d'Équipe Fabrication ; Conducteur de Machine Automatisée ; Technicien de Production Automatisée ; TSS Industrie Agroalimentaire ; BTS Contrôleur de Production en IAA ; BTS QHSE",
+        "diplomes": "CPS ; titres/formations professionnelles ; BTS",
+        "date_creation": "2026-05-12",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260512130700894.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.458655321464104,
+          14.684086784322194
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "nom": "Centre National des Cours professionnels et Industriels (CNCPI/Delafosse)",
+        "nom_officiel": "Centre National des Cours professionnels et Industriels (CNCPI/Delafosse)",
+        "type": "",
+        "statut": "3",
+        "commune": "GUEULE TAPEE FASS COLOBANE",
+        "adresse": "",
+        "telephone": "338404025",
+        "email": "Cncpidakar@gmail.com",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "CAP ; BEP ; BT ; CPS",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.459343279723853,
+          14.68563698582892
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "nom": "CFPC",
+        "nom_officiel": "CFPC",
+        "type": "",
+        "statut": "2",
+        "commune": "GUEULE TAPEE FASS COLOBANE",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260512142159307.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.460170667634774,
+          14.685381227185848
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "nom": "LTCD",
+        "nom_officiel": "LTCD",
+        "type": "",
+        "statut": "3",
+        "commune": "GUEULE TAPEE FASS COLOBANE",
+        "adresse": "",
+        "telephone": "+221 33 822 43 68 / +221 77 271 68 78",
+        "email": "ltcd@education.sn",
+        "site_web": "https://ltcdelafosse.com/",
+        "formation": "Formations BT ; BTS ; formations certifiantes ; cours du soir",
+        "filiere": "Comptabilité-gestion ; transport-logistique ; bureautique ; commerce international ; assistanat de gestion PME/PMI ; marketing-communication",
+        "diplomes": "CAP ; BEP ; BP ; BTS",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260512143140464.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.459298973066314,
+          14.68648269254737
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "nom": "LTID",
+        "nom_officiel": "LTID",
+        "type": "",
+        "statut": "2",
+        "commune": "GUEULE TAPEE FASS COLOBANE",
+        "adresse": "",
+        "telephone": "338222116",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "BEP ; BT ; BTS",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260512151018480.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.459016379441152,
+          14.688804924745252
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "nom": "CFA",
+        "nom_officiel": "CFA",
+        "type": "",
+        "statut": "",
+        "commune": "GUEULE TAPEE FASS COLOBANE",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.191326739081322,
+          14.797841644531609
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "nom": "CEDAF ( Centre Départemental d’Assistance, et de Formation pour la Femme)",
+        "nom_officiel": "CEDAF ( Centre Départemental d’Assistance, et de Formation pour la Femme)",
+        "type": "1",
+        "statut": "2",
+        "commune": "BAMBILOR",
+        "adresse": "",
+        "telephone": "768723278",
+        "email": "cedafrufisque@gmail.com",
+        "site_web": "facebook.com",
+        "formation": "1",
+        "filiere": "Couture, restauration, sérigraphie, broderie à la main, broderie à la machine, micro jardinage, saponification, fabrication de Chanel, transformation de produits céréale",
+        "diplomes": "Attestation",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260203113600468.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.45836480460597,
+          14.717448143267747
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "nom": "ESTG",
+        "nom_officiel": "ESTG",
+        "type": "",
+        "statut": "1",
+        "commune": "SICAP LIBERTE",
+        "adresse": "",
+        "telephone": "338675757",
+        "email": "admission@estg.sn",
+        "site_web": "www.estg.sn",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/ecoles-de-formation_20260512140259190.jpeg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.426668886312758,
+          14.75206651974156
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "nom": "Centre de formation professionnelle horticole (CFPH) nii",
+        "nom_officiel": "Centre de formation professionnelle horticole (CFPH) nii",
+        "type": "1",
+        "statut": "2",
+        "commune": "CAMBERENE",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "",
+        "diplomes": "BT ; BTS ; CAP ; CPS",
+        "date_creation": "1960-10-01",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.412977690043967,
+          14.76851202348448
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "nom": "HAIR Universal institut",
+        "nom_officiel": "HAIR Universal institut",
+        "type": "1",
+        "statut": "1",
+        "commune": "GOLF SUD",
+        "adresse": "",
+        "telephone": "776235518",
+        "email": "hairuniversal.digital@gmail.com",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "",
+        "diplomes": "CPS Diplome d’état",
+        "date_creation": "2026-05-12",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.413833545862225,
+          14.765808829552173
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "nom": "Business Communication center",
+        "nom_officiel": "Business Communication center",
+        "type": "1",
+        "statut": "1",
+        "commune": "GOLF SUD",
+        "adresse": "",
+        "telephone": "77736",
+        "email": "Recrutebc@gmail.com",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "Centre d’appels  comptablité GEstion de caisse Marketing Digital Bureautique Gestion Immobilière Sage P Sali comptabilité Gestion de caisse",
+        "diplomes": "Attestation",
+        "date_creation": "2026-05-12",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.413884265665928,
+          14.77007249350868
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "nom": "Ecole de formation ZE coiffure",
+        "nom_officiel": "Ecole de formation ZE coiffure",
+        "type": "",
+        "statut": "",
+        "commune": "GOLF SUD",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.41398240992222,
+          14.771164488391562
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "nom": "Minapro",
+        "nom_officiel": "Minapro",
+        "type": "",
+        "statut": "",
+        "commune": "GOLF SUD",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.411672767214885,
+          14.770318976568365
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "nom": "Formation Audit Conseil Gestion Expertise",
+        "nom_officiel": "Formation Audit Conseil Gestion Expertise",
+        "type": "",
+        "statut": "",
+        "commune": "GOLF SUD",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.424062434600128,
+          14.763797828941385
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "nom": "ISBD",
+        "nom_officiel": "ISBD",
+        "type": "",
+        "statut": "",
+        "commune": "GOLF SUD",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.427578713674375,
+          14.759492551924904
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "nom": "Formation couture",
+        "nom_officiel": "Formation couture",
+        "type": "",
+        "statut": "",
+        "commune": "GOLF SUD",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.407611888341176,
+          14.750637332472447
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "nom": "IACOM",
+        "nom_officiel": "IACOM",
+        "type": "",
+        "statut": "",
+        "commune": "PIKINE OUEST",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.189050710613554,
+          14.80046563773461
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "nom": "CCA C(entre de coaching Africa)",
+        "nom_officiel": "CCA C(entre de coaching Africa)",
+        "type": "1",
+        "statut": "1",
+        "commune": "BAMBILOR",
+        "adresse": "",
+        "telephone": "782227968",
+        "email": "thierequipe@gmail.com",
+        "site_web": "www.cca-formations.com",
+        "formation": "1",
+        "filiere": "Mécanique auto, Mécatronique, Génie civil/bâtiment, Electrotechnique,Marketing communication,Maintenance réseaux informatiques, comptabilité Gestion, Transit Transport Logistique, Hôtellerie restauration, commerce Administration Secrétariat Infor",
+        "diplomes": "CAP ; BT ; BTS ; Licence professionnelle ; BEP",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260203112548310.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.406575610695697,
+          14.749293553411514
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "nom": "CFP",
+        "nom_officiel": "CFP",
+        "type": "",
+        "statut": "",
+        "commune": "PIKINE OUEST",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.399625526641938,
+          14.748129067625964
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "nom": "ISEG PIKINE",
+        "nom_officiel": "ISEG PIKINE",
+        "type": "",
+        "statut": "",
+        "commune": "PIKINE OUEST",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.39945939780041,
+          14.74809702627162
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "nom": "CFPT LA SOURCE",
+        "nom_officiel": "CFPT LA SOURCE",
+        "type": "",
+        "statut": "",
+        "commune": "PIKINE OUEST",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.448116666666667,
+          14.720238333333336
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "nom": "Institut de Mainagement et de Technologie IMTECH",
+        "nom_officiel": "Institut de Mainagement et de Technologie IMTECH",
+        "type": "1",
+        "statut": "1",
+        "commune": "BISCUITERIE",
+        "adresse": "",
+        "telephone": "33",
+        "email": "info@imtech",
+        "site_web": "https://imtech-nelsonmandela.com/",
+        "formation": "1",
+        "filiere": "Gestion ; banque & finance ; droit public & privé ; technologies de l'informatique ; électromécanique ; biotechnologies",
+        "diplomes": "BEP ; BTS",
+        "date_creation": "2026-02-04",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260204111341132.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.318383095968994,
+          14.770474280956345
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "nom": "ISMI",
+        "nom_officiel": "ISMI",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.31864288828043,
+          14.770758975913987
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "nom": "ISMI Horizon santé",
+        "nom_officiel": "ISMI Horizon santé",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.332243211583542,
+          14.777947193955965
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "nom": "EMICA",
+        "nom_officiel": "EMICA",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.206840021427794,
+          14.745266408775729
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "nom": "ISEP(Institut supérieur d'enseignement professionnel)",
+        "nom_officiel": "ISEP(Institut supérieur d'enseignement professionnel)",
+        "type": "1",
+        "statut": "2",
+        "commune": "DIAMNIADIO",
+        "adresse": "",
+        "telephone": "338646867",
+        "email": "Contact@isepdiamniadio.edu.sn",
+        "site_web": "https://isepdiamniadio.com",
+        "formation": "1",
+        "filiere": "le Transport Logistique et Mobilité Urbaine, le Management des Produits et Services Culturels, le Conseil Info-Énergie, la Production Animale, le Conseil Agricole, les Énergies Renouvelables, la Gestion Immobilière, le Suivi Technique et Gestion des",
+        "diplomes": "DISEP(DiplomeInstitut supérieur d'enseignement professionnel)",
+        "date_creation": "2019-07-01",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260127102058364.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.32354678791833,
+          14.778195557425098
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "nom": "Agir Business Center",
+        "nom_officiel": "Agir Business Center",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.320801745208577,
+          14.778674944717254
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "nom": "Iseg Keur Massar",
+        "nom_officiel": "Iseg Keur Massar",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.315232171798343,
+          14.781109452033483
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "nom": "IFHOT",
+        "nom_officiel": "IFHOT",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.315574128801003,
+          14.775266527231926
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "nom": "Institut Elite Santé",
+        "nom_officiel": "Institut Elite Santé",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.323436233333332,
+          14.778376983333331
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "nom": "AGIR",
+        "nom_officiel": "AGIR",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.320902,
+          14.7787434
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "nom": "ISEG",
+        "nom_officiel": "ISEG",
+        "type": "",
+        "statut": "1",
+        "commune": "KEUR MASSAR",
+        "adresse": "",
+        "telephone": "788789198",
+        "email": "isegkeurmassar@yqhoo.fr",
+        "site_web": "",
+        "formation": "",
+        "filiere": "Comptabilité  marketing banque finance assurance transport logistique création des gestion des entreprises et commerce international  genie logiciel assistante de direction   gestion des ressources humaines  maintenance et réseau",
+        "diplomes": "BTS ; Master ; Licence",
+        "date_creation": "2012-05-08",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.16966814050011,
+          14.711711487708218
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "nom": "CSFP-BTP(Centre Sectoriel de formation professionnelle aux métiers du bâtiment et des travaux publics)",
+        "nom_officiel": "CSFP-BTP(Centre Sectoriel de formation professionnelle aux métiers du bâtiment et des travaux publics)",
+        "type": "1",
+        "statut": "1",
+        "commune": "DIAMNIADIO",
+        "adresse": "",
+        "telephone": "777401779",
+        "email": "contact@csfp-btp.sn",
+        "site_web": "https://csfp-btp.sn",
+        "formation": "1",
+        "filiere": "Bâtiment( maçonnerie, béton armé),des travaux publique (Voiries et Réseaux Divers),Plomberie(installation sanitaires) et éléctricité",
+        "diplomes": "Titre professionnel ; BTS(Brevet de technicien supérieur) ; BT ( Brevet de Technicien)",
+        "date_creation": "2026-01-27",
+        "description": "",
+        "capacite": "",
+        "photo": "C:\\Users\\DELL\\Desktop\\KHABANE GUEYE\\EXERCICES\\btp.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.45031777439271,
+          14.698665353780282
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "nom": "CEDT le G15",
+        "nom_officiel": "",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4512245347685,
+          14.699851226300813
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "nom": "Ecole Multinationale de Telecom",
+        "nom_officiel": "",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.452660164030068,
+          14.699407082739953
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "nom": "Centre de Formation Judiciaire",
+        "nom_officiel": "",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.16905480582127,
+          14.710866848236144
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "nom": "CSFP-Mem",
+        "nom_officiel": "CSFP-Mem",
+        "type": "1",
+        "statut": "2",
+        "commune": "DIAMNIADIO",
+        "adresse": "",
+        "telephone": "338708888",
+        "email": "mamadoubachir.ndao@csfp-mem.sn",
+        "site_web": "https://www.csfp-mem.sn",
+        "formation": "1",
+        "filiere": "1. BTS (Brevet de Technicien Supérieur)\n: Mécatronique,Mainrenace Engins Lours   2.Certificats Professionnels de Spécialisation (CPS) : Agent de maintenance des engins de chantiers et véhicules commerciaux ,Diagnostic Automobile, Maintenance Service",
+        "diplomes": "BTS(Brevet de technicien supérieur) ; Titre professionnel ; BT ( Brevet de Technicien)",
+        "date_creation": "2026-01-27",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260127133316977.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.43222579764091,
+          14.69818110996481
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "nom": "Centre National de Qualification Professionnelle",
+        "nom_officiel": "",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.431147597163793,
+          14.69884298622537
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "nom": "Centre de Formation aux Metiers Portuaires et à la Logistique (CFMPL)",
+        "nom_officiel": "",
+        "type": "",
+        "statut": "",
+        "commune": "",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.166553071448604,
+          14.711870734508333
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "nom": "Centre de référence aux métiers de l’aviculture",
+        "nom_officiel": "Centre de référence aux métiers de l’aviculture",
+        "type": "1",
+        "statut": "Public",
+        "commune": "DIAMNIADIO",
+        "adresse": "",
+        "telephone": "339107049",
+        "email": "centre.agriculture@formation.gouv.sn",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "Aviculture",
+        "diplomes": "CPS ( certificat professionnel de spécialisation) ; CAP ( certificat d’aptitude professionnelle) ; BT ( Brevet de Technicien)",
+        "date_creation": "2024-03-26",
+        "description": "Centre de Référence aux Métiers de l’Aviculture (CRMA), créé par décret n°2024-807 du 26 mars 2024 ; centre polyfonctionnel dédié notamment à la formation initiale et continue et à l’appui à l’insertion dans le secteur avicole.",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260127141410252.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.48547727610281,
+          14.722223445952373
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "nom": "(ECRA) École de Cuisine et de Restauration Appliquée",
+        "nom_officiel": "(ECRA) École de Cuisine et de Restauration Appliquée",
+        "type": "",
+        "statut": "",
+        "commune": "OUAKAM",
+        "adresse": "",
+        "telephone": "338244265",
+        "email": "educationformation.jeune@gmail.com",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "CAP/BEP D'ETAT ; DEP ; DQP ; CPS",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260116163726833.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.471941614798613,
+          14.72502694281592
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "nom": "UNI-PRO (CAMPUS 2)",
+        "nom_officiel": "UNI-PRO (CAMPUS 2)",
+        "type": "1",
+        "statut": "1",
+        "commune": "OUAKAM",
+        "adresse": "",
+        "telephone": "",
+        "email": "uniprocomsn@gmail.com",
+        "site_web": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.universprofessionnel.com%2F&h=https://www.formation-unipro.com",
+        "formation": "1",
+        "filiere": "Sciences de gestion (comptabilité, finance, management).\n\nCommerce international et marketing.\n\nInformatique appliquée et systèmes de gestion",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "C:\\Users\\DELL\\OneDrive\\Desktop\\APPLICATION\\unipro.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.499674049222687,
+          14.72955693064224
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "nom": "Euromed Université",
+        "nom_officiel": "Euromed Université",
+        "type": "1",
+        "statut": "1",
+        "commune": "OUAKAM",
+        "adresse": "",
+        "telephone": "338251437",
+        "email": "infoseuromed@euromed.sn",
+        "site_web": "https://euromed.sn/",
+        "formation": "1",
+        "filiere": "Pharmacie\n/ Médecine",
+        "diplomes": "Licence ; Master ; Doctorat",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "C:\\Users\\DELL\\Downloads\\euromed.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.47700502643851,
+          14.717101009100983
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "nom": "Ecole Internationale des Affaires (EIA)",
+        "nom_officiel": "Ecole Internationale des Affaires (EIA)",
+        "type": "",
+        "statut": "1",
+        "commune": "OUAKAM",
+        "adresse": "",
+        "telephone": "338647764",
+        "email": "contacts@eia.sn",
+        "site_web": "https://www.eia.sn",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.403420009537186,
+          14.746848895211357
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "nom": "Centre de formation professionnelle de Pikine",
+        "nom_officiel": "Centre de formation professionnelle de Pikine",
+        "type": "1",
+        "statut": "3",
+        "commune": "PIKINE OUEST",
+        "adresse": "",
+        "telephone": "776145074",
+        "email": "Fatoumbodj99@yahoo.fr",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "Restauration Couture  Coiffure",
+        "diplomes": "BEP ; CAP ; CPS",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "DCIM/JPEG_20260114104440782.jpg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.47761582876186,
+          14.71786511878444
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "nom": "Ecole Supérieure de Génie Industriel et Biologique (ESGIB) Sup",
+        "nom_officiel": "Ecole Supérieure de Génie Industriel et Biologique (ESGIB) Sup",
+        "type": "",
+        "statut": "1",
+        "commune": "OUAKAM",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "https://esgib-edudakar.net/",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.481794941116362,
+          14.72265498791946
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "nom": "IFHO - Institut de Formation Hôtelière de Ouakam",
+        "nom_officiel": "IFHO - Institut de Formation Hôtelière de Ouakam",
+        "type": "1",
+        "statut": "1",
+        "commune": "OUAKAM",
+        "adresse": "",
+        "telephone": "773242583",
+        "email": "contactifhouakam2021@gmail.com",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "Cuisinier ,patiserie, agent d'accueil",
+        "diplomes": "BEP ; CAP ; DEP ; CPS",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.47192007562907,
+          14.71834418950589
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "nom": "Ecole Supérieure de Génie Industriel et Biologique (ESGIB)",
+        "nom_officiel": "Ecole Supérieure de Génie Industriel et Biologique (ESGIB)",
+        "type": "",
+        "statut": "1",
+        "commune": "OUAKAM",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "",
+        "description": "",
+        "capacite": "",
+        "photo": "C:\\Users\\DELL\\Downloads\\Ecole Supérieure de Génie Industriel et Biologique (ESGIB) Sup.jpeg",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.27281073418554,
+          14.713911990918316
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "nom": "Centre de formation aida couture",
+        "nom_officiel": "Centre de formation aida couture",
+        "type": "enseignement professionel",
+        "statut": "Fonctionnelle",
+        "commune": "Rufisque_est",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "COUTURE,STYLISME ; enseignement professionel",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "2010",
+        "description": "LE centre  de formation aida couture a eu des nouveau proprietaire en 2010 mais a ete cree en 1988 mais n'on eu leur autorisation d'enseigner qu'en 2025",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.273881503949337,
+          14.715596025196488
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "nom": "Centre de formation professionnelle de rufisque",
+        "nom_officiel": "Centre de formation professionnelle de rufisque",
+        "type": "enseignement professionel",
+        "statut": "Fonctionnelle",
+        "commune": "Rufisque_est",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "restauration,habillement,couture,coiffure ; enseignement professionel",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "1973",
+        "description": "Le centre de formation professionnelle de rufisque a ete cree en 2002 fournissant des formation d'apprentissage rapide en fornissant des diplomes d'etat qui permettent l'insertion rapide dans le travail",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.27426978477063,
+          14.717398638332948
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "nom": "Groupe EDICOM",
+        "nom_officiel": "Groupe EDICOM",
+        "type": "enseignement professionel",
+        "statut": "Fonctionnelle",
+        "commune": "Rufisque_est",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "Gestion/Administration (comptabilité, RH, logistique, marketing, banque, assurance), Génie Informatique (réseaux, maintenance, infographie, webmaster, caméra/montage), Industrie (électricité, mécanique, BTP) et Hôtellerie/Restauration/Tourisme ; enseignement professionel",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "2002",
+        "description": "LE groupe edicom est un tres grand etablissement cree en 2002 il propose des formation professionnelle dans quetre departement principeaux viseant l'insertion professionnelle",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.271544706861157,
+          14.71305598542436
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "nom": "institut supérieur et professionnel de l’emploi",
+        "nom_officiel": "institut supérieur et professionnel de l’emploi",
+        "type": "enseignement professionel",
+        "statut": "Fonctionnelle",
+        "commune": "Rufisque_est",
+        "adresse": "",
+        "telephone": "",
+        "email": "",
+        "site_web": "",
+        "formation": "BT ET BTS en genie civil ; enseignement professionel",
+        "filiere": "",
+        "diplomes": "",
+        "date_creation": "2018",
+        "description": "L'institut superieur et professionnel de l'emploi est un nouveau etablissement cree juste avant la covid avec des formation en bt bts cap en genie civil agree par le ministre de l'enseignement superieur",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.319057870174916,
+          14.780381332306346
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "nom": "ESEBAT Keur massar",
+        "nom_officiel": "ESEBAT Keur massar",
+        "type": "2",
+        "statut": "1",
+        "commune": "Keur Massar",
+        "adresse": "",
+        "telephone": "3385690177",
+        "email": "Esebat@esebat.com/www.esebat.com",
+        "site_web": "",
+        "formation": "2",
+        "filiere": "Génie civil, électro technice ,géomètre topographe, geomatique électromécanique système automatisé, architecture désigné intérieur ...",
+        "diplomes": "BT ; BTS ; Licence 3",
+        "date_creation": "2025-12-01",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.342147519896677,
+          14.786988055456947
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "nom": "Complexe Mawa",
+        "nom_officiel": "Complexe Mawa",
+        "type": "",
+        "statut": "1",
+        "commune": "KEUR MASSAR",
+        "adresse": "",
+        "telephone": "771693218",
+        "email": "info@complexemawa.com",
+        "site_web": "",
+        "formation": "",
+        "filiere": "Couture, coiffure, restauration, comptabilité ...",
+        "diplomes": "Dqp ; CAP",
+        "date_creation": "2012-01-25",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.287564545249516,
+          14.786563913993305
+        ]
+      },
+      "properties": {
+        "id": 99,
+        "nom": "Ipg isti keur massar",
+        "nom_officiel": "Ipg isti keur massar",
+        "type": "1",
+        "statut": "1",
+        "commune": "KEUR MASSAR",
+        "adresse": "",
+        "telephone": "338308580",
+        "email": "ipgiistikm@gmail.com",
+        "site_web": "",
+        "formation": "1",
+        "filiere": "Comptabilité gestion, commerce international, électricité d'installation, administration système réseau et maintenance, transport et logistique, ressources humaines, électro industrielle, informatique industrielle ...",
+        "diplomes": "BTS/DTS, licences , Diplôme d'ingénieur de conception, Masters",
+        "date_creation": "1981-01-18",
+        "description": "",
+        "capacite": "",
+        "photo": "",
+        "source": "Fusion_final",
+        "createdAt": "2026-09-05T12:00:38.679Z",
+        "updatedAt": "2026-09-05T12:00:38.679Z",
+        "createdBy": "geomatquecedt@gmail.com",
+        "updatedBy": "geomatquecedt@gmail.com",
+        "dataStatus": "publie",
+        "isDeleted": false
+      }
+    }
+  ]
+}

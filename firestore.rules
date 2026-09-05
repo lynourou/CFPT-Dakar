@@ -1,0 +1,50 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Vérifie si l'utilisateur est l'administrateur principal
+    function estAdminPrincipal() {
+      return request.auth != null && (
+        request.auth.token.email in ['lynourou12@gmail.com', 'geomatquecedt@gmail.com']
+      );
+    }
+
+    // Vérifie si l'utilisateur dispose des droits d'édition (ADMINISTRATEUR ou EDITOR)
+    function estEditeurOuAdmin() {
+      return request.auth != null && (
+        estAdminPrincipal() ||
+        request.auth.token.email in ['invite@fptdakar.sn', 'invite.fptdakar@gmail.com'] ||
+        (
+          exists(/databases/$(database)/documents/utilisateurs/$(request.auth.uid)) &&
+          get(/databases/$(database)/documents/utilisateurs/$(request.auth.uid)).data.actif == true &&
+          get(/databases/$(database)/documents/utilisateurs/$(request.auth.uid)).data.role in ['EDITOR', 'ADMINISTRATEUR']
+        )
+      );
+    }
+
+    // Établissements FPT :
+    // - Lecture publique (visiteurs, étudiants, partenaires)
+    // - Écriture (création, modification, déplacement, suppression) : ADMIN ou EDITOR uniquement
+    match /centres/{centreId} {
+      allow read: if true;
+      allow create, update, delete: if estEditeurOuAdmin();
+    }
+
+    // Historique des modifications et journal d'audit
+    match /historique/{entreeId} {
+      allow read: if estEditeurOuAdmin();
+      allow write: if estEditeurOuAdmin();
+    }
+
+    // Profils utilisateurs et permissions :
+    // - Lecture : utilisateur connecté pour son propre profil ou administrateur principal
+    // - Création/Modification/Suppression : STRICTEMENT réservé à l'administrateur principal
+    //   Un utilisateur (y compris invité) ne peut en aucun cas modifier son rôle ni les permissions des autres
+    match /utilisateurs/{userId} {
+      allow read: if request.auth != null && (request.auth.uid == userId || estAdminPrincipal());
+      allow write: if estAdminPrincipal();
+    }
+  }
+}
+
+

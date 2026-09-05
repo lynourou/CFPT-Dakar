@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "entities": {
+    "centres": {
+      "title": "Centres de Formation Professionnelle et Technique",
+      "description": "Établissements FPT répertoriés dans la région de Dakar",
+      "properties": {
+        "id": { "type": "number", "description": "Identifiant unique QGIS / SIG" },
+        "nom": { "type": "string", "description": "Nom du centre" },
+        "nom_officiel": { "type": "string", "description": "Nom officiel complet" },
+        "type": { "type": "string", "description": "Type: Public ou Privé" },
+        "statut": { "type": "string", "description": "Statut d'homologation" },
+        "commune": { "type": "string", "description": "Commune de localisation" },
+        "adresse": { "type": "string", "description": "Adresse physique" },
+        "telephone": { "type": "string", "description": "Numéro de téléphone" },
+        "email": { "type": "string", "description": "Adresse email" },
+        "site_web": { "type": "string", "description": "Site web officiel" },
+        "formation": { "type": "string", "description": "Type de formation" },
+        "filiere": { "type": "string", "description": "Filière ou domaine" },
+        "diplomes": { "type": "string", "description": "Diplômes délivrés" },
+        "date_creation": { "type": "string", "description": "Année de création" },
+        "description": { "type": "string", "description": "Présentation du centre" },
+        "capacite": { "type": "number", "description": "Capacité d'accueil" },
+        "photo": { "type": "string", "description": "URL de la photo" },
+        "source": { "type": "string", "description": "Source de la donnée" },
+        "latitude": { "type": "number", "description": "Latitude WGS84" },
+        "longitude": { "type": "number", "description": "Longitude WGS84" },
+        "createdAt": { "type": "string", "description": "Date de création de la fiche" },
+        "updatedAt": { "type": "string", "description": "Date de dernière modification" },
+        "dataStatus": { "type": "string", "description": "Statut système: publie, brouillon, a_verifier, archive" },
+        "isDeleted": { "type": "boolean", "description": "Indicateur corbeille logique" }
+      },
+      "required": ["id", "nom", "latitude", "longitude"]
+    },
+    "historique": {
+      "title": "Historique des modifications",
+      "description": "Traçabilité des opérations effectuées par les administrateurs",
+      "properties": {
+        "action": { "type": "string", "description": "Action effectuée" },
+        "centreId": { "type": "string", "description": "ID du centre concerné" },
+        "centreNom": { "type": "string", "description": "Nom du centre concerné" },
+        "date": { "type": "string", "description": "Date de l'action ISO 8601" },
+        "utilisateur": { "type": "object", "description": "Informations sur l'administrateur" },
+        "details": { "type": "string", "description": "Détails textuels de l'action" },
+        "anciennesValeurs": { "type": "object", "description": "État antérieur du centre" },
+        "nouvellesValeurs": { "type": "object", "description": "Nouvel état du centre" }
+      },
+      "required": ["action", "centreId", "centreNom", "date", "utilisateur"]
+    }
+  },
+  "enums": {}
+}

@@ -1,0 +1,6 @@
+{
+  "name": "FPT DAKAR",
+  "description": "Cartographie et orientation vers la Formation Professionnelle et Technique à Dakar - Développé par le CEDT Le G15",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
