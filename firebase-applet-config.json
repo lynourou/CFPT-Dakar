@@ -1,12 +1,12 @@
 {
-  "projectId": "gen-lang-client-0962927482",
-  "appId": "1:239613882392:web:f92120f2dd9afe55d8936d",
-  "apiKey": "AIzaSyC0Uv93AzCcQ73BZpaAT7G1VxitZtz3Yu8",
-  "authDomain": "gen-lang-client-0962927482.firebaseapp.com",
-  "firestoreDatabaseId": "ai-studio-fptdakar-352b3d55-3301-47d9-83c0-717544328274",
-  "storageBucket": "gen-lang-client-0962927482.firebasestorage.app",
-  "messagingSenderId": "239613882392",
+  "projectId": "cfpt-dakar",
+  "appId": "1:1012322447416:web:330d484192815697f476cd",
+  "apiKey": "AIzaSyBJjNL619PA47HqbwZM0j7CkWi-BzTTw4Q",
+  "authDomain": "cfpt-dakar.firebaseapp.com",
+  "firestoreDatabaseId": "",
+  "storageBucket": "cfpt-dakar.firebasestorage.app",
+  "messagingSenderId": "1012322447416",
   "measurementId": "",
-  "oAuthClientId": "239613882392-til0hlmejdri7eu0qqb1q7dehd4fnjrb.apps.googleusercontent.com",
+  "oAuthClientId": "",
   "recaptchaSiteKey": ""
 }
