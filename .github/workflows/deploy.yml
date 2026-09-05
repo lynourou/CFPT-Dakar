@@ -28,9 +28,10 @@ jobs:
         run: npm install --no-package-lock
 
       - name: Build
-        run: npm run build
-        env:
-          VITE_FIREBASE_AI_MODEL_ID: ${{ vars.VITE_FIREBASE_AI_MODEL_ID }}
+  run: npm run build
+  env:
+    VITE_FIREBASE_AI_MODEL_ID: ${{ vars.VITE_FIREBASE_AI_MODEL_ID }}
+    VITE_RECAPTCHA_ENTERPRISE_SITE_KEY: ${{ vars.VITE_RECAPTCHA_ENTERPRISE_SITE_KEY }}
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
