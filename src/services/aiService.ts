@@ -46,17 +46,6 @@ function getModel(modelId?: string) {
 
   return getGenerativeModel(ai, {
     model: id,
-
-    /*
-     * IMPORTANT :
-     * Le modèle peut maintenant utiliser Google Search pour rechercher
-     * des informations publiques et actualisées sur Internet.
-     */
-    tools: [
-      {
-        googleSearch: {},
-      },
-    ],
   });
 }
 
